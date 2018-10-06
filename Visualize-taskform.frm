@@ -1,0 +1,1 @@
+{"id":"8da0e1e4-d411-491d-bebb-eba0446c57af","name":"Visualize-taskform.frm","model":{"taskName":"Visualize","processId":"EPA.bp_new","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}

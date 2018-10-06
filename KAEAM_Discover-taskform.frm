@@ -1,0 +1,1 @@
+{"id":"59d2f4a5-f49c-4954-8b43-a44b00920652","name":"KAEAM_Discover-taskform.frm","model":{"taskName":"KAEAM_Discover","processId":"EPA.bp_new","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}

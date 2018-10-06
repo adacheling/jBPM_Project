@@ -1,0 +1,1 @@
+{"id":"902292cc-af88-4214-a1d0-32330bb927a6","name":"Operate-taskform.frm","model":{"taskName":"Operate","processId":"EPA.bp_new","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}

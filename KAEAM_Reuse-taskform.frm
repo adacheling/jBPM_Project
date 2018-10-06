@@ -1,0 +1,1 @@
+{"id":"4051d584-94f0-491f-b18f-a2fe933defe2","name":"KAEAM_Reuse-taskform.frm","model":{"taskName":"KAEAM_Reuse","processId":"EPA.bp_new","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
